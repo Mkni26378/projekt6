@@ -5,3 +5,14 @@
   }
 
 /* Header */
+
+.header {
+  overflow: hidden;
+  background-color: #ffffff;
+  padding: 20px 10px;
+  }
+
+.header a.logo {
+    max-width: 100px;
+    max-height: 100px;
+  }
